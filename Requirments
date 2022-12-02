@@ -1,0 +1,12 @@
+you need following libraries installed on your compiler
+you can either do a pip install or if you are using pycharm you can install them Directly
+Both ways are given in this sections
+
+1-> In pycharm you have to follow the following steps
+Go to Files->settings->project:flappyBird ComputerVison->python interpreter->Click the plus sign
+and type the name of library to install and press install.
+
+2-> you can do pip install
+> pip install pygame
+> pip install opencv-python
+> pip install mediapipe
